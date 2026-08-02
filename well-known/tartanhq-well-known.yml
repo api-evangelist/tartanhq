@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: probed
+# Probed the primary web host and candidate API host for the standard discovery surface.
+# No document returned 200; no raw files saved. Absence is valid recorded data.
+# (docs./developer./api. subdomains do not resolve — API surface is gated behind console login.)
+hosts:
+  - host: https://www.tartanhq.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://api.tartanhq.com
+    documents:
+      - path: /.well-known/openid-configuration
+        status: 0
+        note: host does not resolve
+      - path: /.well-known/oauth-authorization-server
+        status: 0
+        note: host does not resolve

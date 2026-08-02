@@ -1,0 +1,58 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.tartanhq.com/product-update
+docs: https://www.tartanhq.com/product-update
+# Tartan publishes a dated "Product Updates" stream (per product line: Verification,
+# HyperSync/HRMS Sync, HyperVerify) rather than a semantic-versioned API changelog.
+# Scheme is calendar/product-line. Recent window captured below (verbatim titles + URLs).
+scheme: calendar
+current_period: '2025-04'
+entries:
+  - date: '2025'
+    product: Tartan Insights
+    title: Tartan Insights — richer identity intelligence from basic identifiers
+    url: https://www.tartanhq.com/product-update/tartan-insights-richer-identity-intelligence-from-basic-identifiers
+  - date: '2025-04'
+    product: Verification
+    title: Tartan Verification product update — April 2025
+    url: https://www.tartanhq.com/product-update/tartan-verification-product-update-april-2025
+  - date: '2025-03'
+    product: Verification
+    title: Tartan Verification product update — March 2025
+    url: https://www.tartanhq.com/product-update/tartan-verification-product-update-march-2025
+  - date: '2025-03'
+    product: HyperSync
+    title: Tartan HyperSync product update — March 2025
+    url: https://www.tartanhq.com/product-update/tartan-hyper-sync-product-update-march-2025
+  - date: '2025-02'
+    product: Verification
+    title: Tartan Verification product update — February 2025
+    url: https://www.tartanhq.com/product-update/tartan-verification-product-update-february-2025
+  - date: '2025-02'
+    product: HyperSync
+    title: Tartan HyperSync product update — February 2025
+    url: https://www.tartanhq.com/product-update/tartan-hyper-sync-product-update-february-2025
+  - date: '2025-01'
+    product: HRMS Sync
+    title: HRMS Sync product update — January 2025
+    url: https://www.tartanhq.com/product-update/hrms-sync-product-update-jan-2025
+  - date: '2025-01'
+    product: Verification
+    title: Tartan Verification product update — January 2025
+    url: https://www.tartanhq.com/product-update/tartan-s-verification-product-update-january-2025
+  - date: '2024-12'
+    product: Verification
+    title: Verification product update — December 2024
+    url: https://www.tartanhq.com/product-update/verification-product-update-december-24
+  - date: '2024'
+    product: Company
+    title: Tartan 2024 Recap
+    url: https://www.tartanhq.com/product-update/tartan-2024-recap
+  - date: '2024-11'
+    product: HRMS
+    title: HRMS product update — November 2024
+    url: https://www.tartanhq.com/product-update/hrms-product-update-nov-2024
+  - date: '2024-11'
+    product: Verification
+    title: Verification product update — November 2024
+    url: https://www.tartanhq.com/product-update/verification-product-update-november-24

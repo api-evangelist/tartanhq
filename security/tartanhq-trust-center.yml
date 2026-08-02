@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.tartanhq.com/security
+url: https://www.tartanhq.com/security
+# Tartan publishes its compliance posture on the /security page (and links a /trust-center).
+# Certifications and infrastructure controls captured verbatim from the page text.
+certifications:
+  - ISO 27001
+  - ISO 27701
+  - SOC 2 Type II
+infrastructure:
+  - AWS validated architecture
+  - CIS 3.0
+  - zero-trust architecture
+  - logical tenant separation
+notes: >-
+  Continuous evidence collection for continuous audit-readiness. No public
+  security.txt, responsible-disclosure page, or bug-bounty program was found at
+  probe time (/.well-known/security.txt returned 404).
+evidence:
+  - source: https://www.tartanhq.com/security
+    keywords: [iso 27001, iso 27701, soc 2 type ii, cis 3.0, zero-trust]
