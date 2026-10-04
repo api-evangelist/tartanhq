@@ -50,7 +50,7 @@ tags:
 - Identity
 - KYC
 - KYB
-- Financial-Services
+- Financial Services
 - Insurance
 - Human Resources
 - Lending
@@ -70,6 +70,7 @@ tags_raw:
 - API Infrastructure
 - Fintech
 - India
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
