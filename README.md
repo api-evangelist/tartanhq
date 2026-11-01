@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TartanHQ is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Tartan (TartanHQ) is an India-based enterprise automation and verification-infrastructure company that unifies fragmented business systems (HRIS, ERP, CRM, government/regulatory sources) behind a single set of APIs and AI agents. Its core products are HyperSync (real-time income, identity, and employment data across 80+ systems), HyperVerify (a unified suite for identity, employment, and business verification), and HyperApps (AI agents that run onboarding, underwriting, and verification workflows end to end). Tartan ships a broad verification catalog — Aadhaar, PAN, UPI, GST, ITR, bank-account, DigiLocker, employment/EPFO, address, and document-OCR checks — serving banking, lending, insurance, HR-tech, and travel customers to speed KYC/KYB, reduce fraud, and keep records continuously current. Backed by 500 Global.
 
-Backed by: 500-global — https://tartanhq.com
+**Areas:** Company · Verification · Identity · KYC · KYB · Financial Services · Insurance · Human Resources · Lending · API Infrastructure · Fintech · India
+
+## TartanHQ on APIs.io
+
+Everything profiled for TartanHQ is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tartanhq/](https://apis.io/providers/tartanhq/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tartanhq Domain Security](https://apis.io/security/tartanhq/tartanhq-domain-security/)
+- [Tartanhq Trust Center](https://apis.io/security/tartanhq/tartanhq-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tartanhq.com)
+- [Sign up](https://console.tartanhq.com/common-signup)
+- [Support](https://www.tartanhq.com/contact-us)
+- [Changelog](https://www.tartanhq.com/product-update)
+- [Blog](https://www.tartanhq.com/blog)
+- [Compliance](https://www.tartanhq.com/security)
+- [Trust centre](https://www.tartanhq.com/trust-center)
+- [Terms of service](https://www.tartanhq.com/terms-of-use)
+- [Privacy policy](https://www.tartanhq.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 19.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 21.1** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tartanhq/](https://apis.io/providers/tartanhq/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TartanHQ: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tartanhq/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
